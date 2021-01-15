@@ -1,7 +1,7 @@
 import requests
 from pprint import pprint
 
-key = 'CY7i0PUjtXFUB09ieEB6CJnwmA9Fpzi0ps7OQnjg2%2Fdo5Yl6RMAO1kbqY4UlCigSPg7%2BqWTlh3fNgz1Ot2XZng%3D%3D'
+# KEY = '~~~'
 return_type = 'json'
 num_of_rows = '5'
 page_no = '1'
